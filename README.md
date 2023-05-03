@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarjaiswar16
-- 👀 I’m interested in Android Development
+- 👀 I’m an Android Developer
 - 📫 How to reach me amarjaiswar1626@gmail.com
 
 <!---
