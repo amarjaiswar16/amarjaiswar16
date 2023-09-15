@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amarjaiswar16
-- 👀 I’m an Android Developer
+- 👋 Hi, Amar here
+- 👀 I’m an Enthusiast Flutter developer
 - 📫 How to reach me amarjaiswar1626@gmail.com
 
 <!---
